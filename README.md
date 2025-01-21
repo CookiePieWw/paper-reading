@@ -18,3 +18,5 @@
 - [SOSP'03-The Google File System](https://github.com/CookiePieWw/paper-reading/discussions/12)
 
 - [Memory Models](https://github.com/CookiePieWw/paper-reading/discussions/13)
+
+- [OSDI'04-MapReduce: Simplified Data Processing on Large Clusters](https://github.com/CookiePieWw/paper-reading/discussions/14)
