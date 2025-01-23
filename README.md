@@ -20,3 +20,5 @@
 - [Memory Models](https://github.com/CookiePieWw/paper-reading/discussions/13)
 
 - [OSDI'04-MapReduce: Simplified Data Processing on Large Clusters](https://github.com/CookiePieWw/paper-reading/discussions/14)
+
+- [OSDI'06-Bigtable: A Distributed Storage System for Structured Data](https://github.com/CookiePieWw/paper-reading/discussions/15)
