@@ -24,3 +24,5 @@
 - [OSDI'06-Bigtable: A Distributed Storage System for Structured Data](https://github.com/CookiePieWw/paper-reading/discussions/15)
 
 - [Asio，C++ 20 协程](https://github.com/CookiePieWw/paper-reading/discussions/16)
+
+- [Kafka: a Distributed Messaging System for Log Processing](https://github.com/CookiePieWw/paper-reading/discussions/17)
