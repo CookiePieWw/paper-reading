@@ -27,4 +27,4 @@
 
 - [Kafka: a Distributed Messaging System for Log Processing](https://github.com/CookiePieWw/paper-reading/discussions/17)
 
-- [The Chubby lock service for loosely-coupled distributed systems](https://github.com/CookiePieWw/paper-reading/discussions/18)
+- [OSDI'06-The Chubby lock service for loosely-coupled distributed systems](https://github.com/CookiePieWw/paper-reading/discussions/18)
