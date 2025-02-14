@@ -28,3 +28,5 @@
 - [Kafka: a Distributed Messaging System for Log Processing](https://github.com/CookiePieWw/paper-reading/discussions/17)
 
 - [OSDI'06-The Chubby lock service for loosely-coupled distributed systems](https://github.com/CookiePieWw/paper-reading/discussions/18)
+
+- [SOSP'07-Dynamo: Amazon’s Highly Available Key-value Store](https://github.com/CookiePieWw/paper-reading/discussions/19)
