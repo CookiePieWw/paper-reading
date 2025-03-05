@@ -32,3 +32,5 @@
 - [SOSP'07-Dynamo: Amazon’s Highly Available Key-value Store](https://github.com/CookiePieWw/paper-reading/discussions/19)
 
 - [MySQL](https://github.com/CookiePieWw/paper-reading/discussions/20)
+
+- [Spanner: Google's Globally-Distributed Database](https://github.com/CookiePieWw/paper-reading/discussions/21)
