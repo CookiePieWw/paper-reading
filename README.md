@@ -33,4 +33,4 @@
 
 - [MySQL](https://github.com/CookiePieWw/paper-reading/discussions/20)
 
-- [Spanner: Google's Globally-Distributed Database](https://github.com/CookiePieWw/paper-reading/discussions/21)
+- [OSDI'12-Spanner: Google's Globally-Distributed Database](https://github.com/CookiePieWw/paper-reading/discussions/21)
