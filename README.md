@@ -34,3 +34,5 @@
 - [MySQL](https://github.com/CookiePieWw/paper-reading/discussions/20)
 
 - [OSDI'12-Spanner: Google's Globally-Distributed Database](https://github.com/CookiePieWw/paper-reading/discussions/21)
+
+- [SIGMOD'17-Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://github.com/CookiePieWw/paper-reading/discussions/22)
