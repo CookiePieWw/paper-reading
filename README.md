@@ -36,3 +36,5 @@
 - [OSDI'12-Spanner: Google's Globally-Distributed Database](https://github.com/CookiePieWw/paper-reading/discussions/21)
 
 - [SIGMOD'17-Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://github.com/CookiePieWw/paper-reading/discussions/22)
+
+- [ICDE'22-PolarDB-X: An Elastic Distributed Relational Database for Cloud-Native Applications](https://github.com/CookiePieWw/paper-reading/discussions/23)
