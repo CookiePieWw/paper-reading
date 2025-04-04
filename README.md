@@ -5,9 +5,7 @@
 
 ## TOC
 
-### Distributed System
-
-**Basics:**
+### System
 
 - [SOSP'03-The Google File System](https://github.com/CookiePieWw/paper-reading/discussions/12)
 
@@ -17,36 +15,28 @@
 
 - [OSDI'06-The Chubby lock service for loosely-coupled distributed systems](https://github.com/CookiePieWw/paper-reading/discussions/18)
 
-**Database:**
-
-- [MySQL](https://github.com/CookiePieWw/paper-reading/discussions/20)
-
 - [SOSP'07-Dynamo: Amazon’s Highly Available Key-value Store](https://github.com/CookiePieWw/paper-reading/discussions/19)
 
-  **Distributed OLTP Database:**
+- [NetDB'11-Kafka: a Distributed Messaging System for Log Processing](https://github.com/CookiePieWw/paper-reading/discussions/17)
 
-  - [OSDI'12-Spanner: Google's Globally-Distributed Database](https://github.com/CookiePieWw/paper-reading/discussions/21)
+- [OSDI'12-Spanner: Google's Globally-Distributed Database](https://github.com/CookiePieWw/paper-reading/discussions/21)
 
-  - [SIGMOD'17-Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://github.com/CookiePieWw/paper-reading/discussions/22)
+- [SIGMOD'17-Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://github.com/CookiePieWw/paper-reading/discussions/22)
 
-  - [ICDE'22-PolarDB-X: An Elastic Distributed Relational Database for Cloud-Native Applications](https://github.com/CookiePieWw/paper-reading/discussions/23)
+- [ICDE'22-PolarDB-X: An Elastic Distributed Relational Database for Cloud-Native Applications](https://github.com/CookiePieWw/paper-reading/discussions/23)
 
-**Misc:**
-
-- [Kafka: a Distributed Messaging System for Log Processing](https://github.com/CookiePieWw/paper-reading/discussions/17)
+- [MySQL](https://github.com/CookiePieWw/paper-reading/discussions/20)
 
 ### Programming Language
 
 - [The Y Combinator](https://github.com/CookiePieWw/paper-reading/discussions/7)
 
-- [ADL, CPO and Niebloids](https://github.com/CookiePieWw/paper-reading/discussions/8)
+- [Polymorphism](https://github.com/CookiePieWw/paper-reading/discussions/9)
 
-- [多态](https://github.com/CookiePieWw/paper-reading/discussions/9)
+- [ADL, CPO and Niebloids](https://github.com/CookiePieWw/paper-reading/discussions/8)
 
 - [Memory Models](https://github.com/CookiePieWw/paper-reading/discussions/13)
 
-### Miscellaneous
-
-- [Asio，C++ 20 协程](https://github.com/CookiePieWw/paper-reading/discussions/16)
+- [Asio & C++ 20 Coroutine](https://github.com/CookiePieWw/paper-reading/discussions/16)
 
 ### Unorganized
