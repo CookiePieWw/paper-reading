@@ -40,3 +40,5 @@
 - [Asio & C++ 20 Coroutine](https://github.com/CookiePieWw/paper-reading/discussions/16)
 
 ### Unorganized
+
+- [VLDB'17-An Empirical Evaluation of In-Memory Multi-Version Concurrency Control](https://github.com/CookiePieWw/paper-reading/discussions/24)
